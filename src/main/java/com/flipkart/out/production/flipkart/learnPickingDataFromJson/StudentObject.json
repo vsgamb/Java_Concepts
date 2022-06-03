@@ -1,0 +1,32 @@
+{
+  "age": 24,
+  "name": "Vishal",
+  "salary": 1.5,
+  "company": null,
+  "lockinStatus": {
+    "lockinStatus": "ACTIVATE_ELIGIBLE"
+  }
+  ,
+
+  "81852105034035202": {
+    "quantity": 1,
+    "adjustmentList": [],
+    "productId": "SMWFYFSGNY7M6EPB",
+    "listingId": "LSTSMWFYFSGNY7M6EPBWZFLR3",
+    "categoryId": "24718",
+    "sellerId": "d591418b408940a0",
+    "sellingPrice": 4999.0,
+    "itemId": "LSTSMWFYFSGNY7M6EPBWZFLR3:VER-6807355417510714-154-1040112107:P:C-0012:U:SPCMS",
+    "deliverySla": 1626460199000,
+    "itemMRP": 7999.0,
+    "listingTier": "FASSURED",
+    "itemCharge": 0.0,
+    "itemDiscount": 0.0,
+    "groupDiscountIds": [],
+    "groupChargeIds": [
+      "5"
+    ],
+    "sellingMode": "BAU",
+    "marketplace": "FLIPKART"
+  }
+}

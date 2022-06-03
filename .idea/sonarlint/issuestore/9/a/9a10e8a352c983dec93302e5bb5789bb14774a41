@@ -1,0 +1,9 @@
+
+f	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(ü÷æÅûÿÿÿÿ
+`	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(µæéd
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øµìíùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(™¡²˜
+S	java:S106"9Replace this use of System.out or System.err by a logger.(œˆ¶œùÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(á‚¸»ùÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(þ³Ã¦ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ý÷›Øøÿÿÿÿ

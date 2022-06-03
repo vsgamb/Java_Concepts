@@ -1,0 +1,10 @@
+
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(—Áõš
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®—‹üÿÿÿÿ
+e
+java:S1104"OMake age a static final constant or non-public and provide accessors if needed.(×Áò¿
+k
+java:S1104"PMake year a static final constant or non-public and provide accessors if needed.(ªîôÔøÿÿÿÿ
+E
+java:S1444"*Make this "public static year" field final(ªîôÔøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÜéĞÿÿÿÿÿ
